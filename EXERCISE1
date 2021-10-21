@@ -1,0 +1,17 @@
+package myInfo;
+
+class Personal {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	System.out.println("Name : Suchira a/p Sumon");
+	System.out.println("Matric No. : 288316");
+	System.out.println("Bachelor Computer Science");
+	System.out.println("Semester 1 2021/2022");
+	System.out.println("Address : Kampung Baru Simpang 4, 09100 Baling,Kedah");
+	System.out.println("Father's Name : Sumon");
+	System.out.println("Mother's Name : Anoma");
+
+}
+
+}
